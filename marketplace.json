@@ -1,13 +1,22 @@
 {
     "app_name": "MatlabRedisCluster",
     "description": "Lightweight Matlab distributed computing based on Redis",
-    "hidden": "true",
-    "rank": "21",
+    "rank": "300",
     "type": "Full App",
     "contributed_by": "Community",
-    "repo_url": "https://github.com/AmirGoldental/MatlabRedisCluster",
-    "download_url": "https://github.com/AmirGoldental/MatlabRedisCluster/archive/refs/heads/main.zip",
+    "repo_url": "https://github.com/redis-developer/MatlabRedisCluster",
+    "download_url": "https://github.com/redis-developer/MatlabRedisCluster/archive/refs/heads/main.zip",
     "hosted_url": "",
+    "quick_deploy": "true",
+    "deploy_buttons": [
+    {
+      "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/MatlabRedisCluster"
+    },
+   
+    {
+      "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/MatlabRedisCluster"
+    }
+    ],
     "language": [
         "Matlab",
         "Batch",
@@ -39,7 +48,7 @@
         "SCRIPT"
     ],
     "redis_features": [
-        "caching"
+        "Caching"
     ],
     "redis_modules": [
         "RedisTimeseries"
@@ -55,5 +64,5 @@
     "verticals": [
         "Technology"
     ],
-    "markdown": "https://raw.githubusercontent.com/AmirGoldental/MatlabRedisCluster/main/README.md"
+    "markdown": "https://raw.githubusercontent.com/redis-developer/MatlabRedisCluster/main/README.md"
 }
