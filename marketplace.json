@@ -3,6 +3,7 @@
     "description": "Lightweight Matlab distributed computing based on Redis",
     "rank": "300",
     "type": "Full App",
+    "hidden" : "true",
     "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/MatlabRedisCluster",
     "download_url": "https://github.com/redis-developer/MatlabRedisCluster/archive/refs/heads/main.zip",
