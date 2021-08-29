@@ -1,14 +1,14 @@
 {
     "app_name": "MatlabRedisCluster",
     "description": "Lightweight Matlab distributed computing based on Redis",
-    "rank": "300",
+    "rank": 163,
     "type": "Full App",
     "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/MatlabRedisCluster",
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/MatlabRedisCluster/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/MatlabRedisCluster/archive/refs/heads/main.zip",
     "hosted_url": "",
-    "quick_deploy": "true",
+    "quick_deploy": "false,
     "deploy_buttons": [
     {
       "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/MatlabRedisCluster"
