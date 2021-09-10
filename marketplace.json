@@ -1,15 +1,14 @@
 {
     "app_name": "MatlabRedisCluster",
     "description": "Lightweight Matlab distributed computing based on Redis",
-    "rank": 300,
+    "rank": 367,
     "type": "Full App",
-    "hidden" : "true",
     "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/MatlabRedisCluster",
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/MatlabRedisCluster/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/MatlabRedisCluster/archive/refs/heads/main.zip",
     "hosted_url": "",
-    "quick_deploy": "true",
+    "quick_deploy": "false",
     "deploy_buttons": [
     {
       "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/MatlabRedisCluster"
@@ -59,7 +58,11 @@
         "https://user-images.githubusercontent.com/50057077/117539282-9c1d5500-b012-11eb-8eb6-46e1788164a4.png",
         "https://user-images.githubusercontent.com/50057077/112982622-59d83c80-9165-11eb-97e1-ed2957179e03.png"
     ],
+<<<<<<< HEAD
     "youtube_url": "https://www.youtube.com/watch?v=t0GjNPf02MY",
+=======
+    "youtube_url": " https://www.youtube.com/watch?v=ZrYYtWPQJI8",
+>>>>>>> d14fee9fc0cc69175f69e8cae3aa820c75047a30
     "special_tags": [
         "Hackathon"
     ],
