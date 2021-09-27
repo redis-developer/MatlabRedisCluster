@@ -52,7 +52,7 @@
         "Caching"
     ],
     "redis_modules": [
-        "RedisTimeseries"
+        "RedisTimeSeries"
     ],
     "app_image_urls": [
         "https://user-images.githubusercontent.com/50057077/117539282-9c1d5500-b012-11eb-8eb6-46e1788164a4.png",
